@@ -128,3 +128,4 @@ INSERT INTO roles
 VALUES (1 , "hero", 1),
        (2 , "hero-father", 2),
        (3 , "twin brother", 3);
+
